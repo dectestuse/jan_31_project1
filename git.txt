@@ -39,6 +39,10 @@ git pull
 
 
 gittt addd 
+
+hii
+heloo
+
 gittt pushhhh
 
 Hiiii
